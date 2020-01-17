@@ -14,10 +14,10 @@ The Agenda will also be the structure of my Notebook
 
 AGENDA FOR TRANSFORMATIONS
 
-#1. HREF: Transform, check if it href is equal to href formula
-#2. DATE: Set String to Date Time
-#3. NAME: If Name "female/male" change to NAN
-#4. AGE: Change Age to INT - if its not clear, that change Age to NAN
-#5. Drop useless columns
-#6. want to do
+1. HREF: Transform, check if it href is equal to href formula
+2. DATE: Set String to Date Time
+3. NAME: If Name "female/male" change to NAN
+4. AGE: Change Age to INT - if its not clear, that change Age to NAN
+5. Drop useless columns
+6. want to do
 
