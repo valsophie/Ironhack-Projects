@@ -20,7 +20,7 @@ The data is then stored in csv files in the /data folder.
 Since the data was in general in a very good shape, not much effort was needed to clean the datasets. A bigger issue with the data in this realm is the nature of the gender-pay-gap. Since a number of institutions on different levels, e.g. national, european or global, use their own interpretation of the gender-pay-gap, different sources used varying methods to calculate the pay cap which makes them difficult to compare. 
 
 # 4. Presentation
-A few main findings of the project are summarized within a short presentation with help of Tabelau. Its outcome is stored in /presentation
+A few main findings of the project are summarized within a short presentation with help of Tabelau. Its outcome is stored in at https://public.tableau.com/profile/valerie.stroh#!/vizhome/genderpaygapintech/Presentation
 
 # 5. Result
 One insight into the gender-pay-gap realm is that it is surprisingly difficult to compare different datsets. 
